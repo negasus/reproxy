@@ -11,6 +11,7 @@ require (
 	github.com/prometheus/client_golang v1.17.0
 	github.com/stretchr/testify v1.8.4
 	github.com/umputun/go-flags v1.5.1
+	github.com/yuin/gopher-lua v1.1.1
 	golang.org/x/crypto v0.15.0
 	gopkg.in/natefinch/lumberjack.v2 v2.2.1
 	gopkg.in/yaml.v3 v3.0.1
